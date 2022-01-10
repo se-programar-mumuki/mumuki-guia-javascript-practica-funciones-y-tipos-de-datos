@@ -1,0 +1,1 @@
+¿Y cómo invoco `cuantoCuesta`? Pasándole como primer argumento el número de pulgadas y como segundo la cantidad de memoria. :sunglasses:

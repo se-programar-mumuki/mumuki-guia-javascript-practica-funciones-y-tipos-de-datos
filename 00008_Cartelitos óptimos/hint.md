@@ -1,0 +1,1 @@
+Recordá que contás con las funciones `longitud` y  `escribirCartelito`, no tenés que definirlas solo invocarlas. :wink:
